@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#fff;
+}
+.main-btn{
+    height: 70px;
+    width: 500px;
+    margin: 250px;
+    margin-left: 400px;
+    border: none;
+    border-radius: 20px;
+    background-color: ivory;
+    opacity:0.5 ;
+}
+.back{
+    transition: background-color ease-in 500ms;
+}
+
